@@ -14,3 +14,6 @@ NLTK is a natural languane toolkit for handling texts. In this project, we used 
 Sentence bert is a BERT-based model proposed by Nils Reimers and Iryna Gurevych in 2019. This model is suitable for computing the embedding of sentences in an efficient amount of time. This model uses siamese and triplets networks to produce the embeddings. By having these sentence embeddings and computing the cosine similarity between them, we can compute a similarity scores for each pair of sentences.
 The related paper for Sentence-Bert can be found in following link:
 https://arxiv.org/pdf/1908.10084.pdf
+
+# How to Run
+This code works for 100 queries because of lack of time for producing the results for whole dataset. For running the code, what is required is just using google colab and then run each cell seperately.
